@@ -1,0 +1,5 @@
+$echo "content">file3.txt
+simply copies the command to new file./
+$$echo "content">>file3.txt
+this will append the exixting content.
+

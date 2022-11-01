@@ -1,0 +1,15 @@
+for Q3.
+(non root user)
+i performed  $ mv file2.txt /home
+Error: Permission denied.
+
+I tried -f same error,
+net I tried $ mv file2.txt ~/home
+
+it moved the file to home but with name "home"
+
+- why was it denying the permission in no root user.
+
+
+(root user)
+it performed the $ mv file2.txt easily.
